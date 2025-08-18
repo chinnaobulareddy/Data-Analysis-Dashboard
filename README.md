@@ -9,7 +9,7 @@ The objective of this project is to analyze the growing problem of plastic waste
 
 ## Dataset Used
 
-File Name: ocean_plastic_pollution_data.csv
+File Name: https://github.com/chinnaobulareddy/Data-Analysis-Dashboard/blob/main/ocean_plastic_pollution_data.csv
 
 The dataset contains plastic waste data (in kilograms) across different oceans from 2015 to 2025, categorized by:
 
@@ -22,8 +22,7 @@ Depth (meters)
 
 Data cleaning and preprocessing were performed before visualization to ensure accuracy.
 
-
-📈 Key Questions (KPIs)
+## Key Questions (KPIs)
 
 1. Total Plastic Waste (2015–2025): How much waste has accumulated over the years?
 
@@ -44,7 +43,7 @@ Data cleaning and preprocessing were performed before visualization to ensure ac
 
 
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 Tableau Public – Data Visualization
 
@@ -53,7 +52,7 @@ Excel / CSV – Data Preparation & Cleaning
 
 📊 Dashboard Preview
 
-(Add a screenshot of your dashboard here)
+
 
 🚀 How to Use
 
