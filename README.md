@@ -50,11 +50,10 @@ Tableau Public – Data Visualization
 Excel / CSV – Data Preparation & Cleaning
 
 
-📊 Dashboard Preview
+## Dashboard Preview
+https://github.com/chinnaobulareddy/Data-Analysis-Dashboard/commit/09419ac70c3535e3ef7093a3edfb20798bf1a1da
 
-
-
-🚀 How to Use
+ ## How to Use
 
 1. Download the dataset from this repository.
 
@@ -66,7 +65,7 @@ Excel / CSV – Data Preparation & Cleaning
 
 
 
-📢 Insights
+## Insights
 
 Plastic waste shows a rising trend from 2015 to 2025.
 
@@ -77,10 +76,8 @@ The Pacific and Atlantic Oceans are among the most impacted regions.
 Pollution is not limited to the surface; it penetrates multiple depth levels.
 
 
-📬 Author
+## Author
 
-👤 Your Name
+👤 B.Chinna obula Reddy
 
-GitHub: your-username
-
-LinkedIn: your-linkedin
+GitHub: chinnaobulareddy
