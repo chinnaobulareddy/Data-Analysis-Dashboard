@@ -51,7 +51,7 @@ Excel / CSV – Data Preparation & Cleaning
 
 
 ## Dashboard Preview
-https://github.com/chinnaobulareddy/Data-Analysis-Dashboard/commit/09419ac70c3535e3ef7093a3edfb20798bf1a1da
+https://public.tableau.com/app/profile/chinna.obula.reddy/viz/ProjectTableau_17555389690240/Dashboard1
 
  ## How to Use
 
