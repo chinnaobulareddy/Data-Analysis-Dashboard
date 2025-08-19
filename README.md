@@ -1,6 +1,6 @@
 # Data-Analysis-Dashboard
 I developed a comprehensive project in Tableau, designing multiple charts and graphs to analyze the dataset. The process encompassed several stages, including data processing, data cleaning, and data visualization, to derive meaningful insights and present them effectively.
- ![Dashboard Image](1st project dashboard.png)
+![Tableau Dashboard](https://github.com/chinnaobulareddy/Data-Analysis-Dashboard/blob/main/1st%20project%20dashboard.png)
 # Plastic Pollution in Oceans-data-analysis(Interactive Dashboard Creation By Using Tableau)
 
 ## Project Objective
