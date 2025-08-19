@@ -52,6 +52,7 @@ Excel / CSV – Data Preparation & Cleaning
 
 ## Dashboard Preview
 https://public.tableau.com/app/profile/chinna.obula.reddy/viz/ProjectTableau_17555389690240/Dashboard1
+Go Down and click the see full screen feature
 
  ## How to Use
 
